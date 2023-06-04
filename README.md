@@ -31,7 +31,8 @@ print("{:.2f}".format(e))
 
 
 ### OUTPUT:
-![image](https://github.com/DEVADARSHAN2/DISTANCE-BETWEEN-TWO-POINTS/assets/119432150/b20108cf-db15-4715-9ee5-827ee1beba13)
+![model](output.png)
+
 
 ### RESULT:
 Hence python program to find the distance two 2 points has written successfully.
